@@ -8,6 +8,5 @@
 - ⚡ Fun fact: People's expectations of me and reality are different😄.
 - Hobbies: Meditation | Swimming | Skating
 
-
-[![Codewars](https://www.codewars.com/users/johnson-noe/badges/small)](https://www.codewars.com/users/Johnson%20Noe/badges/large)
+https://www.codewars.com/users/Johnson%20Noe/badges/small
 
