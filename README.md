@@ -10,4 +10,4 @@
 
 
 
-![Codewars](https://www.codewars.com/users/Johnson%20Noe/badges/small)
+![Codewars](https://www.codewars.com/users/Johnson%20Noe/badges/large)
