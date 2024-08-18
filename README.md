@@ -9,5 +9,5 @@
 - Hobbies: Meditation | Swimming | Skating
 
 
+![Codewars](https://www.codewars.com/users/johnson-noe/badges/small)
 
-![Codewars](https://github.r2v.ch/codewars?user=JohnsonNoe)
