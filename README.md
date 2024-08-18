@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People's expectations of me and reality are different😄.
 - Hobbies: Meditation | Swimming | Skating
--->
+
