@@ -8,3 +8,6 @@
 - ⚡ Fun fact: People's expectations of me and reality are different😄.
 - Hobbies: Meditation | Swimming | Skating
 
+
+
+![Codewars](https://github.r2v.ch/codewars?user=JohnsonNoe)
