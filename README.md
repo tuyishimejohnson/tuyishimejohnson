@@ -12,6 +12,3 @@
 
 ![Codewars](https://www.codewars.com/users/Johnson%20Noe/badges/large)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tuyishimejohnson&theme=react-dark)
-
