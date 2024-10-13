@@ -4,7 +4,7 @@
 - :hammer_and_wrench: I’m currently learning React.js, React Router, Node.js and fundamentals of Rust.
 - 💬 Ask me about F1 news😄
 - 📫 How to reach me: j.tuyishime4@alustudent.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
 - ⚡ Fun fact: People's expectations of me and reality are different😄.
 - Hobbies: Meditation | Swimming | Skating
 
