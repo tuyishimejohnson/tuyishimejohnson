@@ -3,8 +3,7 @@
 - :hammer_and_wrench: I’m currently learning SAP programming language.
 - 📫 How to reach me: noejohnson02@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: People's expectations of me and reality are different😄.
-- Hobbies: Meditation | Swimming | Skating
+- Hobbies: Sports | Meditation | Swimming | Skating
 
 
 
