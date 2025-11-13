@@ -1,6 +1,6 @@
 ## Hi there👋 my name is Johnson!
 
-- :hammer_and_wrench: I’m currently learning SAP programming language.
+- :hammer_and_wrench: OFF.
 - 📫 How to reach me: noejohnson02@gmail.com
 - 😄 Pronouns: He
 - Hobbies: Sports | Meditation | Swimming | Skating
