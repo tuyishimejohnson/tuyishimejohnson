@@ -3,7 +3,7 @@
 - :hammer_and_wrench: OFF.
 - 📫 How to reach me: noejohnson02@gmail.com
 - 😄 Pronouns: He/Him
-- Hobbies: Sports | Meditation | Swimming | Skating
+- Hobbies: Sports | Skating
 
 
 
