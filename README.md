@@ -1,6 +1,6 @@
 ## Hi there👋 my name is Johnson!
 
-- :hammer_and_wrench: Specializing in GEN AI.
+- :hammer_and_wrench: Specializing in GenAI.
 - 📫 How to reach me: noejohnson02@gmail.com
 - 😄 Pronouns: He/Him
 - Hobbies: Sports | Skating | Music
